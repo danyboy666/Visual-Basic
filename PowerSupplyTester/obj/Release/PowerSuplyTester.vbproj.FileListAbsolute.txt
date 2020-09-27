@@ -1,0 +1,20 @@
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Release\ResolveAssemblyReference.cache
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Release\PowerSuplyTester.vbproj.GenerateResource.Cache
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\bin\Release\PowerSuplyTester.exe
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\bin\Release\PowerSuplyTester.pdb
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\bin\Release\PowerSuplyTester.xml
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Release\PowerSuplyTester.Form1.resources
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Release\PowerSuplyTester.Resources.resources
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Release\PowerSuplyTester.exe
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Release\PowerSuplyTester.xml
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Release\PowerSuplyTester.pdb
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\bin\Release\PowerSuplyTester.exe
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\bin\Release\PowerSuplyTester.pdb
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\bin\Release\PowerSuplyTester.xml
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Release\ResolveAssemblyReference.cache
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Release\PowerSuplyTester.Form1.resources
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Release\PowerSuplyTester.Resources.resources
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Release\PowerSuplyTester.vbproj.GenerateResource.Cache
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Release\PowerSuplyTester.exe
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Release\PowerSuplyTester.xml
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Release\PowerSuplyTester.pdb

@@ -1,0 +1,43 @@
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\bin\Debug\PowerSuplyTester.exe
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\bin\Debug\PowerSuplyTester.pdb
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\bin\Debug\PowerSuplyTester.xml
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Debug\PowerSuplyTester.Form1.resources
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Debug\PowerSuplyTester.Resources.resources
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Debug\PowerSuplyTester.vbproj.GenerateResource.Cache
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Debug\PowerSuplyTester.exe
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Debug\PowerSuplyTester.xml
+C:\Users\db666\Desktop\Lab Final Systemes\SerialCommChat_DANY\obj\Debug\PowerSuplyTester.pdb
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\obj\Debug\PowerSuplyTester.exe
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\obj\Debug\PowerSuplyTester.xml
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\obj\Debug\PowerSuplyTester.pdb
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\bin\Debug\PowerSuplyTester.exe
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\bin\Debug\PowerSuplyTester.pdb
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\bin\Debug\PowerSuplyTester.xml
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\obj\Debug\PowerSuplyTester.Form1.resources
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\obj\Debug\PowerSuplyTester.Resources.resources
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSuplyTester\obj\Debug\PowerSuplyTester.vbproj.GenerateResource.Cache
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSupplyTester\obj\Debug\PowerSuplyTester.exe
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSupplyTester\obj\Debug\PowerSuplyTester.xml
+C:\Users\db666\Desktop\Lab Final Systemes\PowerSupplyTester\obj\Debug\PowerSuplyTester.pdb
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Debug\PowerSuplyTester.exe
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Debug\PowerSuplyTester.xml
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Debug\PowerSuplyTester.pdb
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\bin\Debug\PowerSuplyTester.exe
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\bin\Debug\PowerSuplyTester.pdb
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\bin\Debug\PowerSuplyTester.xml
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Debug\ResolveAssemblyReference.cache
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Debug\PowerSuplyTester.Form1.resources
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Debug\PowerSuplyTester.Resources.resources
+\\TgeSrv1\Élèves_Dossiers\EFerD003\Bureau\PowerSupplyTester\obj\Debug\PowerSuplyTester.vbproj.GenerateResource.Cache
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\obj\Debug\PowerSuplyTester.exe
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\obj\Debug\PowerSuplyTester.xml
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\obj\Debug\PowerSuplyTester.pdb
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\bin\Debug\PowerSuplyTester.exe
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\bin\Debug\PowerSuplyTester.pdb
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\bin\Debug\PowerSuplyTester.xml
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\obj\Debug\PowerSuplyTester.Form1.resources
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\obj\Debug\PowerSuplyTester.Resources.resources
+C:\Users\db666\OneDrive\Documents\Programmation\Programmation Visual Basic\VB 2008\PowerSupplyTester\obj\Debug\PowerSuplyTester.vbproj.GenerateResource.Cache
